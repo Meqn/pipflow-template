@@ -1,0 +1,20 @@
+{
+  "name": "pipflow-templates",
+  "version": "1.0.0",
+  "description": "Templates for pipflow-cli.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meqn/pipflow-templates.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meqn/pipflow-templates/issues"
+  },
+  "homepage": "https://github.com/Meqn/pipflow-templates#readme"
+}
