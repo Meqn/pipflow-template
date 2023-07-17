@@ -1,6 +1,6 @@
 {
-  "name": "pipflow-templates",
-  "version": "1.0.0",
+  "name": "@pipflow/template",
+  "version": "0.0.1",
   "description": "Templates for pipflow-cli.",
   "main": "index.js",
   "scripts": {

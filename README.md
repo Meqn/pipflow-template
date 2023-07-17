@@ -1,3 +1,3 @@
-# pipflow-templates
+# @pipflow/template
 
 Templates for pipflow-cli.
