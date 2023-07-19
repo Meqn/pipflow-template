@@ -1,8 +1,11 @@
 {
   "name": "@pipflow/template",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Templates for pipflow-cli.",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +13,15 @@
     "type": "git",
     "url": "git+https://github.com/Meqn/pipflow-templates.git"
   },
-  "keywords": [],
+  "keywords": [
+    "template",
+    "pipflow",
+    "pipflow template",
+    "gulp template"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
