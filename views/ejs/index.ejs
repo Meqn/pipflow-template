@@ -6,7 +6,7 @@
 <meta name="renderer" content="webkit">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telphone=no">
-<title>Home {{title}}</title>
+<title>Home <%= title %></title>
 <meta name="description" content="">
 <meta name="keywords" content="">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
@@ -14,14 +14,14 @@
 <link rel="stylesheet" href="./styles/index.css">
 </head>
 <body>
-{{ extend './includes/_header.html' }}
-
+<header class="header"></header>
 <main class="main">
-  <h1>Hello {{title}}!</h1>
-  <p>{{description}}</p>
+  <h1>Hello <%= title %>!</h1>
+  <p><%= description %></p>
 </main>
-
-{{ extend './includes/_footer.html' }}
+<footer class="footer">
+  <p>Copyright © 2023 pipflow</p>
+</footer>
 
 <script src="./scripts/index.js"></script>
 </body>
