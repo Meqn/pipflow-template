@@ -14,14 +14,14 @@
 <link rel="stylesheet" href="./styles/index.css">
 </head>
 <body>
-<header class="header"></header>
+{{ extend './includes/_header.html' }}
+
 <main class="main">
   <h1>Hello pipflow!</h1>
   <p>description</p>
 </main>
-<footer class="footer">
-  <p>Copyright © 2023 pipflow</p>
-</footer>
+
+{{ extend './includes/_footer.html' }}
 
 <script src="./scripts/index.js"></script>
 </body>

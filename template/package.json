@@ -1,12 +1,19 @@
 {
-  "name": "pipflow",
+  "name": "{{name}}",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "pipflow serve --mode=development",
+    "build": "cross-env NODE_ENV=production pipflow build --mode=production",
+    "preview": "pipflow preview -p 8527",
+    "lint": "pipflow lint"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "{{author}}",
+  "license": "ISC",
+  "devDependencies": {
+    "cross-env": "~7.0.3",
+    "pipflow": "latest"
+  }
 }
