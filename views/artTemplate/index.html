@@ -14,14 +14,14 @@
 <link rel="stylesheet" href="./styles/index.css">
 </head>
 <body>
-{{ extend './includes/_header.html' }}
+{{ include './includes/_header.html' }}
 
 <main class="main">
   <h1>Hello {{title}}!</h1>
   <p>{{description}}</p>
 </main>
 
-{{ extend './includes/_footer.html' }}
+{{ include './includes/_footer.html' { year: 2013 } }}
 
 <script src="./scripts/index.js"></script>
 </body>
