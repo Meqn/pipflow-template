@@ -1,6 +1,6 @@
 {
   "name": "@pipflow/template",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Templates for pipflow-CLI.",
   "main": "index.js",
   "files": [
@@ -20,6 +20,7 @@
     "gulp template"
   ],
   "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
   "author": "",
