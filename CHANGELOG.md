@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/Meqn/pipflow-template/compare/v1.0.0...v1.0.1) (2023-07-27)
+
+
+### 🐛 Bug Fixes
+
+* 将babel.config移除template ([6a9ed72](https://github.com/Meqn/pipflow-template/commit/6a9ed729cc894493fc63980fe7d3822e78ce8c6d))
+
 ## 1.0.0 (2023-07-26)
 
 
