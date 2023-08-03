@@ -1,27 +1,10 @@
-@import './comm/variables.scss';
+$--text-primary-color: #333;
+$--text-secondary-color: #666;
 
-* { box-sizing: border-box; }
-body{
-  margin: 0;
-  text-align: center;
-  color: #333;
-  background-color: #fff;
+h1{
+  color: $--text-primary-color;
 }
 
-.header, .main, .footer{
-  padding-top: 16px;
-}
-
-.header{
-  height: $--header-height;
-  background-color: #ececec;
-}
-
-.main{
-  height: calc(100vh - $--header-height - $--footer-height);
-}
-
-.footer{
-  height: $--footer-height;
-  background-color: #e0e0e0;
+p{
+  color: $--text-secondary-color;
 }

@@ -1,25 +1,7 @@
-* { box-sizing: border-box; }
-body{
-  margin: 0;
-  text-align: center;
+h1{
   color: #333;
-  background-color: #fff;
 }
 
-.header, .main, .footer{
-  padding-top: 16px;
-}
-
-.header{
-  height: 72px;
-  background-color: #ececec;
-}
-
-.main{
-  height: calc(100vh - 72px - 96px);
-}
-
-.footer{
-  height: 96px;
-  background-color: #e0e0e0;
+p{
+  color: #666;
 }
