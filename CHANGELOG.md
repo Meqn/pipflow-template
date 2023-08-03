@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.1.0](https://github.com/Meqn/pipflow-template/compare/v1.0.1...v1.1.0) (2023-08-03)
+
+
+### 🚀 Features
+
+* 增加JS文件 ([a6dac9d](https://github.com/Meqn/pipflow-template/commit/a6dac9dca80c84de2b67f1dc978d65530ca4822d))
+* 更新CSS-Preprocessor模板 ([29a3426](https://github.com/Meqn/pipflow-template/commit/29a3426129096521134cfb46516b591513b78c4d))
+* 更新HTML模板文件 ([14a8d80](https://github.com/Meqn/pipflow-template/commit/14a8d80cd81610e180cb3f1d02fddf5470b73258))
+
+
+### 🌟 Performance
+
+* 调整babel.config目录&删除jsconfig ([760d489](https://github.com/Meqn/pipflow-template/commit/760d489e591389539d55e0ed118d15eeb8a3ba3f))
+
 ## [1.0.1](https://github.com/Meqn/pipflow-template/compare/v1.0.0...v1.0.1) (2023-07-27)
 
 
