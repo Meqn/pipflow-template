@@ -41,3 +41,12 @@ jobs:
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_ACCESS_TOKEN }}
         if: ${{ steps.release.outputs.release_created }}
+      
+      - name: Sync To Gitee
+        uses: Yikun/hub-mirror-action@master
+        with:
+          src: pipflow-template
+          dst: pipflow-template
+          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+          dst_token: ${{ secrets.GITEE_SYNC_TOKEN }}
+          static_list: "pipflow-template"
