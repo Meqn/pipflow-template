@@ -45,8 +45,8 @@ jobs:
       - name: Sync To Gitee
         uses: Yikun/hub-mirror-action@master
         with:
-          src: pipflow-template
-          dst: pipflow-template
+          src: github/Meqn
+          dst: gitee/mengqing
           dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
           dst_token: ${{ secrets.GITEE_SYNC_TOKEN }}
           static_list: "pipflow-template"
