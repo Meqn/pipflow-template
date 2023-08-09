@@ -14,7 +14,9 @@
   "license": "ISC",
   "devDependencies": {
     "cross-env": "^7.0.3",
+    {{#if imagemin}}
     "gulp-imagemin": "^7.1.0",
+    {{/if}}
     "pipflow": "latest"
   }
 }
