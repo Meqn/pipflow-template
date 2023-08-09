@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/Meqn/pipflow-template/compare/v1.1.0...v1.2.0) (2023-08-09)
+
+
+### 🚀 Features
+
+* add gulp-imagemin deps ([8f5f95c](https://github.com/Meqn/pipflow-template/commit/8f5f95cf52ebb86200651cba12291a1ab2019b5a))
+
 ## [1.1.0](https://github.com/Meqn/pipflow-template/compare/v1.0.1...v1.1.0) (2023-08-03)
 
 
