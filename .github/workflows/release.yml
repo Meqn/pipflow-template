@@ -14,6 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 自动发布版本
       - uses: google-github-actions/release-please-action@v3
         id: release
         with:
@@ -26,7 +27,7 @@ jobs:
           # release-as: v1.0.0
           prerelease: false
       
-      # 下面是处理 build 和 npm发布逻辑
+      # 处理 build 和 npm发布逻辑
       - uses: actions/checkout@v3
         if: ${{ steps.release.outputs.release_created }}
 
@@ -42,6 +43,7 @@ jobs:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_ACCESS_TOKEN }}
         if: ${{ steps.release.outputs.release_created }}
       
+      # 同步到 Gitee
       - name: Sync To Gitee
         uses: Yikun/hub-mirror-action@master
         with:
