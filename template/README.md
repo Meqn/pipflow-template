@@ -1,7 +1,7 @@
 # {{ name }}
 
-### Customize configuration
-See [Configuration Reference](https://cli.pipflow.org/config/).
+## Customize configuration
+See [Configuration Reference](https://pipflow.mengqing.org/).
 
 
 ## Project Setup
@@ -9,12 +9,12 @@ See [Configuration Reference](https://cli.pipflow.org/config/).
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+## Compile and Hot-Reload for Development
 ```
 npm run serve
 ```
 
-### Compile and Minify for Production
+## Compile and Minify for Production
 ```
 npm run build
 ```
