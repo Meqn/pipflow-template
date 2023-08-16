@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.3.0](https://github.com/Meqn/pipflow-template/compare/v1.2.0...v1.3.0) (2023-08-16)
+
+
+### 🚀 Features
+
+* add Eslint preset ([52aac84](https://github.com/Meqn/pipflow-template/commit/52aac840bc8f1c3007e6e887b1aad195bf6f5bcf))
+
+
+### 🌟 Performance
+
+* change suffix of art-template files ([fd1998e](https://github.com/Meqn/pipflow-template/commit/fd1998e5edda6ee25c2a347a503027e74a057b37))
+* update babel.config ([360aba4](https://github.com/Meqn/pipflow-template/commit/360aba4a1c4790128c1b421b147874e750be950a))
+
 ## [1.2.0](https://github.com/Meqn/pipflow-template/compare/v1.1.0...v1.2.0) (2023-08-09)
 
 
