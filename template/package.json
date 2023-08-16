@@ -6,8 +6,7 @@
   "scripts": {
     "serve": "pipflow serve",
     "build": "pipflow build",
-    "preview": "pipflow preview -p 8527",
-    "lint": "pipflow lint"
+    "preview": "pipflow preview"
   },
   "keywords": [],
   "author": "{{author}}",
