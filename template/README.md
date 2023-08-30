@@ -11,7 +11,7 @@ npm install
 
 ## Compile and Hot-Reload for Development
 ```
-npm run serve
+npm run dev
 ```
 
 ## Compile and Minify for Production
