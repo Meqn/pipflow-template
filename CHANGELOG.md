@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/Meqn/pipflow-template/compare/v1.3.0...v1.3.1) (2023-08-30)
+
+
+### 🐛 Bug Fixes
+
+* **perf:** Change dev command ([0289360](https://github.com/Meqn/pipflow-template/commit/0289360d9466219139eaf61389d6ac11a34aac91))
+
 ## [1.3.0](https://github.com/Meqn/pipflow-template/compare/v1.2.0...v1.3.0) (2023-08-16)
 
 
