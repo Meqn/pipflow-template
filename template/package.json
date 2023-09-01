@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "pipflow dev",
     "build": "pipflow build",
-    "preview": "pipflow task preview"
+    "preview": "pipflow task server --preview"
   },
   "keywords": [],
   "author": "{{author}}",
