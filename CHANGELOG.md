@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.2](https://github.com/Meqn/pipflow-template/compare/v1.3.1...v1.3.2) (2023-09-01)
+
+
+### 🌟 Performance
+
+* Change preview-scripts ([0c01d09](https://github.com/Meqn/pipflow-template/commit/0c01d090342224a2b481a2d733779daf15684fda))
+
 ## [1.3.1](https://github.com/Meqn/pipflow-template/compare/v1.3.0...v1.3.1) (2023-08-30)
 
 
