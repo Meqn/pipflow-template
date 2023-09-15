@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.3](https://github.com/Meqn/pipflow-template/compare/v1.3.2...v1.3.3) (2023-09-15)
+
+
+### 🌟 Performance
+
+* Optimize template file directory ([ba9ebc6](https://github.com/Meqn/pipflow-template/commit/ba9ebc6326f6a180ab0cb44abee2995a2c1d356f))
+* Reset postcss configuration ([f25ee5b](https://github.com/Meqn/pipflow-template/commit/f25ee5b670ec0ee84e26bdec315bacc388f8b6e8))
+
 ## [1.3.2](https://github.com/Meqn/pipflow-template/compare/v1.3.1...v1.3.2) (2023-09-01)
 
 
