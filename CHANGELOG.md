@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/Meqn/pipflow-template/compare/v1.3.3...v1.4.0) (2023-10-15)
+
+
+### 🚀 Features
+
+* Add jsconfig.json ([d27fd6c](https://github.com/Meqn/pipflow-template/commit/d27fd6c53cb7c456590caa7ac8958977c1d8da78))
+
 ## [1.3.3](https://github.com/Meqn/pipflow-template/compare/v1.3.2...v1.3.3) (2023-09-15)
 
 
