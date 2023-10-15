@@ -12,6 +12,12 @@
   "author": "{{author}}",
   "license": "ISC",
   "devDependencies": {
+    {{#if babel}}
+    "@babel/core": "^7.23.2",
+    "@babel/preset-env": "^7.23.2",
+    "babel-loader": "^9.1.3",
+    "core-js": "^3.33.0",
+    {{/if}}
     "cross-env": "^7.0.3",
     {{#if imagemin}}
     "gulp-imagemin": "^7.1.0",
