@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.1](https://github.com/Meqn/pipflow-template/compare/v1.4.0...v1.4.1) (2023-10-17)
+
+
+### 🌟 Performance
+
+* Optimize compatibility configuration ([#12](https://github.com/Meqn/pipflow-template/issues/12)) ([0089835](https://github.com/Meqn/pipflow-template/commit/008983510a5c8a7990ce848431d16e1512c258c2))
+
 ## [1.4.0](https://github.com/Meqn/pipflow-template/compare/v1.3.3...v1.4.0) (2023-10-15)
 
 
