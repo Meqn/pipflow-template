@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.2](https://github.com/Meqn/pipflow-template/compare/v1.4.1...v1.4.2) (2023-12-28)
+
+
+### 🌟 Performance
+
+* Change the preset template directory ([9ab19b5](https://github.com/Meqn/pipflow-template/commit/9ab19b501fe4b929b819541a92a6f976a71cdcfe))
+
 ## [1.4.1](https://github.com/Meqn/pipflow-template/compare/v1.4.0...v1.4.1) (2023-10-17)
 
 
