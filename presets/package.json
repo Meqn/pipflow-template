@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "pipflow dev",
     "build": "pipflow build",
-    "preview": "pipflow task server --preview"
+    "preview": "pipflow task server --preview",
+    "pack": "pipflow task archive --dest={{name}}-[time].zip"
   },
   "keywords": [],
   "author": "{{author}}",
