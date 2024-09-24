@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.3](https://github.com/Meqn/pipflow-template/compare/v1.4.2...v1.4.3) (2024-09-24)
+
+
+### 🌟 Performance
+
+* Update environment and ignore files ([64762dd](https://github.com/Meqn/pipflow-template/commit/64762dd152f868d5a3e8a959bf07588f53cf11a3))
+
 ## [1.4.2](https://github.com/Meqn/pipflow-template/compare/v1.4.1...v1.4.2) (2023-12-28)
 
 
