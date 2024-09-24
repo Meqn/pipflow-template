@@ -1,6 +1,6 @@
 # @pipflow/template
 
-Templates for `pipflow-cli`.
+Templates for [`pipflow`](https://github.com/Meqn/pipflow).
 
 
 ## Documents
